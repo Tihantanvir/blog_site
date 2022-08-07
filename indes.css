@@ -1,0 +1,50 @@
+
+
+
+*{
+
+margin:0;
+
+
+padding:0;
+
+
+box-sizing:border-box;
+
+
+text-decoration :none;
+
+
+list-style-type:none;
+
+
+outline:0;
+
+
+font-weight:400rem;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+html{  background-color:#80CA1A;   }
+
+.container{}
+
+
+
+.nav{     background-color:black;
+    
+    
+    
+    
+          color: white;     }
+
